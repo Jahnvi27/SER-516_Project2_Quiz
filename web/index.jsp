@@ -4,6 +4,6 @@
     <title>$Title$</title>
 </head>
 <body>
-Hello
+Hello from WEB-INF
 </body>
 </html>

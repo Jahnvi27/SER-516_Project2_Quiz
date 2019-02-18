@@ -38,3 +38,4 @@ modules.xml
 *.ipr
 
 *.DS_Store
+/build/
